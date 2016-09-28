@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+/build/
+/.idea/
+/gradle/
+/.gradle/
+/app/build/
+/app/libs/
+/RSA_DH.iml
